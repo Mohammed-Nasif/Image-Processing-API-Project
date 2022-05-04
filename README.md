@@ -52,7 +52,7 @@ or Clone it using GIT `git clone`.
 
 - You Must First Start the `index.js` File in VS Terminal Using `node build/index.js` Command.
 
-- Now you can open the App on any browser using the localhost of Port: 3030. [http://localhost:3020/]
+- Now you can open the App on any browser using the localhost of Port: 3020. [http://localhost:3020/]
 
 ---
 
