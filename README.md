@@ -40,7 +40,7 @@ GO to [Localhost](http://localhost:3020/) After Start the server to read all the
 
 You can Install this project to your PC using clone the repo to your github account then Download It as a ZIP File to your PC.
 
-or Clone it using GIT `git clone`.
+or Clone it using GIT `git clone` if you access it from GITHUB.
 
 ---
 
@@ -50,7 +50,7 @@ or Clone it using GIT `git clone`.
 
 - After The Installation you can now use the project files by UnZip the file and open it on any Code Text Editor (VS Code).
 
-- You Must First Start the `index.js` File in VS Terminal Using `node build/index.js` Command.
+- You Must First Start the `server.js` File in VS Terminal Using `node build/server.js` Command.
 
 - Now you can open the App on any browser using the localhost of Port: 3020. [http://localhost:3020/]
 
@@ -86,12 +86,9 @@ or Clone it using GIT `git clone`.
 
 ### Scripts
 
-- Install: `npm install`
-- Build: `npm run build`
-- Lint: `npm run lint`
-- Prettify: `npm run prettify`
-- Run unit tests: `npm run test`
-- Start server: `npm run start`
+- Install The Pacakges if node_module File not attached: `npm i`
+- Run unit tests with Jasmine: `npm run test`
+- Start server to see the API Website: `npm run start`
 
 # Contribute
 
